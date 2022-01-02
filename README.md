@@ -1,5 +1,5 @@
 # Bird species classifier
-Deep Learning project based on a [Kaggle dataset](https://www.kaggle.com/gpiosenka/100-bird-species) of 50 582 birds picture ( $224 \times 224 \times 3$ ) to classify birds species
+Deep Learning project based on a [Kaggle dataset](https://www.kaggle.com/gpiosenka/100-bird-species) of 50 582 birds picture $224 \times 224 \times 3$ to classify birds species
 
 Here are the [guidelines](https://centralesupelec.edunao.com/pluginfile.php/171469/course/section/25973/intro_projets.pdf) for the project.
 
